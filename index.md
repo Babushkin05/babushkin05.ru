@@ -44,7 +44,7 @@ ___
 
   I never have a job yet  :/
 
-![cat](assets/cat.jpg)
+![cat](assets/cat.png)
 
 ---
 
