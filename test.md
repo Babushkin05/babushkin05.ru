@@ -70,3 +70,6 @@ github: [@babushkin05](https://github.com/Babushkin05)
 codeforces: [@babushkin_](https://codeforces.com/profile/babushkin_)
 
 kaggle : [vladimirbabushkin](https://www.kaggle.com/vladimirbabushkin)
+
+---
+made by vladimir babushkin, 2023
