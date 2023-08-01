@@ -40,6 +40,8 @@
 
 * orange judo belt
 
+* top10 of knowlers What?Where?When? in SFU 22'
+
 ___
 
 ### <a id="exp"> experience
