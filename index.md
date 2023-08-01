@@ -4,7 +4,7 @@
 
 ## **18 y.o. software engineer from hse moscow**
     
- ### <a href="#skills"> skills |<a href="#ach"> achievements |<a href="#exp"> experience |<a href="#edu"> education |<a href="#links"> links   
+  <a href="#skills"> skills |<a href="#ach"> achievements |<a href="#exp"> experience |<a href="#edu"> education |<a href="#links"> links   
 
  ---
 
