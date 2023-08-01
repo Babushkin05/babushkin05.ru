@@ -1,1 +1,1 @@
-# just clcik babushkin05.ru
+# just click *babushkin05.ru*
