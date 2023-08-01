@@ -70,9 +70,9 @@ ___
     3. [Phys. Math. School of SFU](https://fms.sfu-kras.ru/) 23', Krasnoyarsk, Russia
     4. [Bacheloar of Software Engineering in FCS HSE](https://www.hse.ru/ba/se/) 27', Moscow, Russia
 * extra
-    1. summer school of programming NlogN 22'
-    2. Krasnoyarsk summer school 22'
-    3. summer school of data analysis in FCS Hse 23'
+    1. [summer school of programming NlogN](https://nlogn.info/camp) 22'
+    2. [Krasnoyarsk summer school](https://vk.com/klsh_ru) 22'
+    3. [summer school of data analysis in FCS HSE](https://cs.hse.ru/dataschool/) 23'
 
 ---
 
