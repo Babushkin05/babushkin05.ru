@@ -64,10 +64,15 @@ ___
 
 ### <a id="edu">education
 
-1. [Kindergarten №1](https://dou24.ru/1/) 11', Krasnoyarsk, Russia
-2. [Gymnasium №16](http://gim16.ru/) 21', Krasnoyarsk, Russia
-3. [Phys. Math. School of SFU](https://fms.sfu-kras.ru/) 23', Krasnoyarsk, Russia
-4. [Bacheloar of Software Engineering in FCS HSE](https://www.hse.ru/ba/se/) 27', Moscow, Russia
+*main
+    1. [Kindergarten №1](https://dou24.ru/1/) 11', Krasnoyarsk, Russia
+    2. [Gymnasium №16](http://gim16.ru/) 21', Krasnoyarsk, Russia
+    3. [Phys. Math. School of SFU](https://fms.sfu-kras.ru/) 23', Krasnoyarsk, Russia
+    4. [Bacheloar of Software Engineering in FCS HSE](https://www.hse.ru/ba/se/) 27', Moscow, Russia
+*extra
+    1. summer school of programming NlogN 22'
+    2. Krasnoyarsk summer school 22'
+    3. summer school of data analysis in FCS Hse 23'
 
 ---
 
