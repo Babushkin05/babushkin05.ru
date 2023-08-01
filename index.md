@@ -5,6 +5,11 @@
 ![Vladimir Babushkin](assets/me.png "Vladimir Babushkin")
 
 ## **18 y.o. software engineer from hse moscow**
+
+>> Лето!
+Я изжарен, как котлета
+Время есть, а денег нету,
+Но мне на это наплевать
     
   <a href="#skills"> skills |<a href="#ach"> achievements |<a href="#exp"> experience |<a href="#edu"> education |<a href="#links"> links   
 
