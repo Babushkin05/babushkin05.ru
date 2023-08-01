@@ -73,5 +73,7 @@ codeforces: [@babushkin_](https://codeforces.com/profile/babushkin_)
 
 kaggle : [vladimirbabushkin](https://www.kaggle.com/vladimirbabushkin)
 
+~~inst : [babushkin_](https://www.instagram.com/babushkin_/)~~
+
 ---
 made by vladimir babushkin, 2023
