@@ -1,3 +1,5 @@
+<!-- center -->
+
 # Vladimir Babushkin
 
 ![Vladimir Babushkin](assets/me.png "Vladimir Babushkin")
