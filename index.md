@@ -26,6 +26,8 @@
 
 * c++
 
+* golang
+
 * sql
 
 * html
