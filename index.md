@@ -42,11 +42,11 @@
 
 ### <a id="ach">achievements
 
-* prize-winner of Open Olimpiad for School Students in Informatics
+* prize-winner of Open Olimpyad for School Students in Informatics
 
-* winner of KFU olimpiad in Math
+* winner of KFU olimpyad in Math
 
-* winner of Team Olimpiad in programming in Eastern Siberia
+* winner of Team Olimpyad in programming in Eastern Siberia
 
 * gold medal for excellent studying in Phys. Math. School of SFU
 
@@ -58,7 +58,7 @@ ___
 
 ### <a id="exp"> experience
 
-  I never have a job yet  :/
+  I never had a job  :/
 
 ![cat](assets/cat.png)
 
