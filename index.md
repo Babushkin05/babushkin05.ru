@@ -22,9 +22,11 @@
 
 ### <a id="skills">skills
 
-* python
-
 * c++
+
+* c#
+
+* python
 
 * golang
 
@@ -58,7 +60,7 @@ ___
 
 ### <a id="exp"> experience
 
-  I never had a job  :/
+  I never had a job yet :/
 
 ![cat](assets/cat.png)
 
@@ -75,7 +77,7 @@ ___
     1. [summer school of programming NlogN](https://nlogn.info/camp) 22', Kostroma, Russia
     2. [Krasnoyarsk summer school](https://vk.com/klsh_ru) 22', Zheleznogorsk, Russia
     3. [summer school of data analysis in FCS HSE](https://cs.hse.ru/dataschool/) 23', Moscow, Russia
-
+    4. [Ozon Route 256 C#](https://route256.ozon.ru/) 24', Online
 ---
 
 ### <a id="links"> links
