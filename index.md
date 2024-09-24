@@ -26,11 +26,11 @@
 
 * c#
 
+* sql
+
 * python
 
 * golang
-
-* sql
 
 * html
 
@@ -40,6 +40,21 @@
 
 * english b1-b2
 
+---
+
+### <a id="edu">education
+
+* main
+    1. [Kindergarten №1](https://dou24.ru/1/) 11', Krasnoyarsk, Russia
+    2. [Gymnasium №16](http://gim16.ru/) 21', Krasnoyarsk, Russia
+    3. [Phys. Math. School of SFU](https://fms.sfu-kras.ru/) 23', Krasnoyarsk, Russia
+    4. [Bacheloar of Software Engineering in FCS HSE](https://www.hse.ru/ba/se/) 27', Moscow, Russia
+* extra
+    1. [summer school of programming NlogN](https://nlogn.info/camp) 22', Kostroma, Russia
+    2. [Krasnoyarsk summer school](https://vk.com/klsh_ru) 22', Zheleznogorsk, Russia
+    3. [summer school of data analysis in FCS HSE](https://cs.hse.ru/dataschool/) 23', Moscow, Russia
+    4. [Ozon Route 256 C#](https://route256.ozon.ru/) 24', Online
+    5. [SHAD DB course](https://shad.yandex.ru/) 25', Online
 ---
 
 ### <a id="ach">achievements
@@ -66,20 +81,6 @@ ___
 
 ---
 
-### <a id="edu">education
-
-* main
-    1. [Kindergarten №1](https://dou24.ru/1/) 11', Krasnoyarsk, Russia
-    2. [Gymnasium №16](http://gim16.ru/) 21', Krasnoyarsk, Russia
-    3. [Phys. Math. School of SFU](https://fms.sfu-kras.ru/) 23', Krasnoyarsk, Russia
-    4. [Bacheloar of Software Engineering in FCS HSE](https://www.hse.ru/ba/se/) 27', Moscow, Russia
-* extra
-    1. [summer school of programming NlogN](https://nlogn.info/camp) 22', Kostroma, Russia
-    2. [Krasnoyarsk summer school](https://vk.com/klsh_ru) 22', Zheleznogorsk, Russia
-    3. [summer school of data analysis in FCS HSE](https://cs.hse.ru/dataschool/) 23', Moscow, Russia
-    4. [Ozon Route 256 C#](https://route256.ozon.ru/) 24', Online
----
-
 ### <a id="links"> links
 
 email : [babushkinvova05@gmail.com](babushkinvova05@gmail.com)
@@ -97,4 +98,4 @@ kaggle : [vladimirbabushkin](https://www.kaggle.com/vladimirbabushkin)
 ~~inst : [babushkin_](https://www.instagram.com/babushkin_/)~~
 
 ---
-made by vladimir babushkin, 2023
+made by vladimir babushkin, 2024
