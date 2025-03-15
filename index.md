@@ -14,19 +14,20 @@ mail: [babushkinvova05@gmail.com](babushkinvova05@gmail.com)
 
 - linux (syscalls, processes, shared memory)
 
-## А также
+#### А также
 
 - python, risc-v asm, c#, git, bash, sql, design patterns, solid, unit tests
 
-- Математика (учебный ассистент на курсе по Дискретной Математике)
 
 ## Образование
 
 ### ПИ ФКН НИУ ВШЭ 2027'
 
-средний балл ***8.6***, перцентиль ***10.14%*** 
+средний балл **8.6**, перцентиль **10.14%**
 
-**Ключевые курсы:**
+Учебный ассистент на курсе по Дискретной Математике
+
+### Ключевые курсы
 
 - [С++](https://github.com/Babushkin05/HSE-SE-Cpp-contestes)
 
@@ -47,7 +48,7 @@ mail: [babushkinvova05@gmail.com](babushkinvova05@gmail.com)
 
 - [Многопоточная симуляция работы гостиницы через библиотеку pthread на C++](https://github.com/Babushkin05/HSE-ABC-OS-course/tree/main/IDZ4)
 
-- [Программа решающая лежат ли 4 точки на одной окружности (500 строк на risv-v asm)](https://github.com/Babushkin05/HSE-ABC-OS-course/tree/main/IDZ2)
+- [Программа решающая лежат ли 4 точки на одной окружности (500 строк на risc-v asm)](https://github.com/Babushkin05/HSE-ABC-OS-course/tree/main/IDZ2)
 
 - [Библиотека стандартных контейнеров для Процедурно-Параметрического расширения языка С](https://github.com/Babushkin05/ppclang-standart-containers)
 
