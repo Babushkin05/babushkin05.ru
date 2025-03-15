@@ -8,9 +8,9 @@ mail: [babushkinvova05@gmail.com](babushkinvova05@gmail.com)
 
 ## Ключевые навыки
 
-- C++ (std c++20, move semantics, RAII, SFINAE, concurrency)
+- c++ (std c++20, move semantics, RAII, SFINAE, concurrency)
 
-- Go (http, goroutines, channels)
+- go (http, goroutines, channels)
 
 - linux (syscalls, processes, shared memory)
 
